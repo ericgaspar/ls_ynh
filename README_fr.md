@@ -9,13 +9,13 @@
 Si vous n'avez pas YunoHost, consultez [le guide](https://yunohost.org/#/install) pour apprendre comment l'installer.*
 
 ## Vue d'ensemble
-Luckysheet est un service web de traitement de texte collaboratif en temps réel. Il utilise le langage Markdown.
+Luckysheet est une feuille de calcul en ligne, puissante, simple à configurer et complètement open source.
 
 **Version incluse :** 2.0.0
 
 ## Captures d'écran
 
-![](https://demo.hedgedoc.org/screenshot.png)
+![]()
 
 ## Démo
 
@@ -26,15 +26,15 @@ Luckysheet est un service web de traitement de texte collaboratif en temps réel
 
 ## Documentation
 
- * Documentation officielle : https://github.com/luckysheet/server/tree/master/docs/
- * Documentation YunoHost : https://yunohost.org/#/app_codimd_fr
+ * Documentation officielle : https://mengshukeji.github.io/LuckysheetDocs/
+ * Documentation YunoHost : 
 
 ## Caractéristiques spécifiques YunoHost
 
 #### Support multi-utilisateur
 
-* L'authentification LDAP est-elle prise en charge ? **Oui**
-* L'application peut-elle être utilisée par plusieurs utilisateurs ? **Oui**
+* L'authentification LDAP est-elle prise en charge ? 
+* L'application peut-elle être utilisée par plusieurs utilisateurs ? 
 
 #### Architectures supportées
 

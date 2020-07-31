@@ -9,13 +9,13 @@
 If you don't have YunoHost, please consult [the guide](https://yunohost.org/#/install) to learn how to install it.*
 
 ## Overview
-Luckysheet is a real-time collaborative word processing web service. It uses Markdown language.
+Luckysheet is an online spreadsheet that is powerful, simple to configure, and completely open source.
 
 **Shipped version:** 2.0.0
 
 ## Screenshots
 
-![](https://demo.hedgedoc.org/screenshot.png)
+![]()
 
 ## Demo
 
@@ -23,19 +23,17 @@ Luckysheet is a real-time collaborative word processing web service. It uses Mar
 
 ## Configuration
 
-You can configure HedgeDoc by editing this file `/var/www/hedgedoc/config.json` using this the [documentation](https://github.com/hedgedoc/server/blob/master/docs/configuration.md)
-
 ## Documentation
 
- * Official documentation: https://github.com/hedgedoc/server/tree/master/docs/
- * YunoHost documentation: https://yunohost.org/#/app_hedgedoc
+ * Official documentation: https://mengshukeji.github.io/LuckysheetDocs/
+ * YunoHost documentation: 
 
 ## YunoHost specific features
 
 #### Multi-user support
 
-* Is LDAP supported? **Yes**
-* Can the app be used by multiple users? **Yes**
+* Is LDAP supported? 
+* Can the app be used by multiple users? 
 
 #### Supported architectures
 

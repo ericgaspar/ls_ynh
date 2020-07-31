@@ -1,5 +1,5 @@
 [Unit]
-Description=Luckysheet: collaborative Markdown notes
+Description=Luckysheet: online spreadsheet
 Documentation=https://github.com/mengshukeji/Luckysheet
 After=network.target
 
