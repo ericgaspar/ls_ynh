@@ -19,7 +19,7 @@ Luckysheet est un service web de traitement de texte collaboratif en temps réel
 
 ## Démo
 
-* [Démo officielle](https://demo.hedgedoc.org/)
+* [Démo officielle](https://mengshukeji.github.io/LuckysheetDemo/)
 
 ## Configuration
 
