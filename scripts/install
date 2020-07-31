@@ -103,10 +103,16 @@ ynh_script_progression --message="Building $app... (this will take some time and
 pushd "$final_path" || ynh_die
 
 	ynh_use_nodejs
-	ynh_npm install
-	ynh_npm install gulp -g
+	ynh_exec_warn_less ynh_npm install
+	ynh_exec_warn_less ynh_npm install gulp -g
 
 popd || ynh_die
+
+#=================================================
+# MODIFY A CONFIG FILE
+#=================================================
+
+cp ../conf/config.example.js $final_path/src/config.js
 
 #=================================================
 # SETUP SYSTEMD
