@@ -37,8 +37,8 @@
                     "en": "Choose a path for Luckysheet",
                     "fr": "Choisissez un chemin pour Luckysheet"
                 },
-                "example": "/Luckysheet",
-                "default": "/Luckysheet"
+                "example": "/luckysheet",
+                "default": "/luckysheet"
             },
             {
                 "name": "is_public",
