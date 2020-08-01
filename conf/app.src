@@ -1,5 +1,5 @@
-SOURCE_URL=https://github.com/mengshukeji/Luckysheet/archive/v2.0.0-0.tar.gz
-SOURCE_SUM=f618e3a2f61fdc483eacd1e0405b43e41b4976097f60d392d006fe0234a220c6
+SOURCE_URL=https://github.com/mengshukeji/Luckysheet/archive/v2.0.0.tar.gz
+SOURCE_SUM=697e79a4d033506074f8e0261ff94cee6e4360b7f0634cb9de53ae59edcec1fe
 SOURCE_SUM_PRG=sha256sum
 SOURCE_FORMAT=tar.gz
 SOURCE_IN_SUBDIR=true
