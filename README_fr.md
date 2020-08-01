@@ -57,5 +57,5 @@ Pour essayer la branche testing, procédez comme suit.
 ```
 sudo yunohost app install https://github.com/YunoHost-Apps/luckysheet_ynh/tree/testing --debug
 ou
-sudo yunohost app upgrade hedgedoc -u https://github.com/YunoHost-Apps/luckysheet_ynh/tree/testing --debug
+sudo yunohost app upgrade luckysheet -u https://github.com/YunoHost-Apps/luckysheet_ynh/tree/testing --debug
 ```
