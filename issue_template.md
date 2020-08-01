@@ -23,7 +23,7 @@ about: Create a report to help us debug, it would be nice to fill the template a
 - Are you in a special context or did you perform some particular tweaking on your YunoHost instance ?: *no / yes*
   - If yes, please explain:
 - Using, or trying to install package version/branch:
-- If upgrading, current package version: *can be found in the admin, or with `yunohost app info Luckysheet`*
+- If upgrading, current package version: *can be found in the admin, or with `yunohost app info luckysheet`*
 
 **To Reproduce**
 *Steps to reproduce the behavior.*
